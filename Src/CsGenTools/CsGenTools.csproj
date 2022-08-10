@@ -7,8 +7,8 @@
     <ProjectGuid>{7FB222D5-327F-4696-8C10-AEA748CCC787}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CsGenTools.General</RootNamespace>
-    <AssemblyName>CsGenTools.General</AssemblyName>
+    <RootNamespace>CsGenTools</RootNamespace>
+    <AssemblyName>CsGenTools</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <SccProjectName>SAK</SccProjectName>
@@ -39,7 +39,6 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Caching\DataCacher.cs" />
     <Compile Include="CloneExtension.cs" />
     <Compile Include="DisposeExtensions.cs" />
     <Compile Include="Functional\Either.cs" />
