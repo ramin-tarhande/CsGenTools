@@ -1,6 +1,6 @@
 ﻿using NUnit.Framework;
 using CsGenTools;
-using CsGenTools.Tools;
+using CsGenTools.Counters;
 
 namespace Tests.Counters
 {

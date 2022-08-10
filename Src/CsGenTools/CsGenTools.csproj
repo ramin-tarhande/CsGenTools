@@ -45,7 +45,7 @@
     <Compile Include="Functional\IfExtensions.cs" />
     <Compile Include="Functional\Maybe.cs" />
     <Compile Include="Functional\PipeExtensions.cs" />
-    <Compile Include="Tools\Counter.cs" />
+    <Compile Include="Counters\Counter.cs" />
     <Compile Include="DebugFriendly.cs" />
     <Compile Include="ExceptionUtil.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

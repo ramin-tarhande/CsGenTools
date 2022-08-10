@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CsGenTools.Tools
+namespace CsGenTools.Counters
 {
     public class Counter
     {
